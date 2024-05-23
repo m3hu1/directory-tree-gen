@@ -16,7 +16,7 @@ This C++ program generates a tree structure of a folder and its subfolders using
 
 3. Enter the path of the folder you want to generate the tree structure for when prompted.
 
-4. Choose whether to expand every folder or not by entering "yes" or "no" when prompted.
+4. Choose whether to expand every folder or not by entering "yes" or "no" when prompted. If "no" is selected, then the sub-folders will only be expanded up to one level.
 
 5. The program will generate and print the tree structure of the specified folder.
 
